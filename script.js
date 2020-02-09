@@ -1,2 +1,7 @@
-alert(1);
-console.log(1);
+'use strict';
+ 
+let ter = 10;
+let fyt = 209; 
+ 
+let totl = (ter*fyt);
+console.log(tot1);
